@@ -1,7 +1,5 @@
-ת.ז - 
+C++ 17 Implementation
 
-מימושי בונוס:
--מטלה 1-
-1. נוספה האפשרות לשחק עם צבעים. לכל מחלקה רלוונטית נוסף צבע מתאים תחת סיווג ה-enum class המתאים
-2. הרצת המסך התבצעה למעשה על ידי קריאה מקובץ למרות שזה חובה רק ממטלה 2
-3. שימוש במקרא & למרות שזה חובה רק ממטלה 2
+Code includes OOP principles - inheritance, encapsulation, polymorphism.
+
+Code includes C++ standard library use, recursive functions, etc.
