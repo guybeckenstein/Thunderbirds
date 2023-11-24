@@ -1,5 +1,4 @@
 # Thunderbirds, C++ Console Application
-## Implemented using C++ 17
-
+- Class task developed in C++ 17 environment.
 - Code includes OOP principles - inheritance, encapsulation, polymorphism.
-- Code includes C++ standard library use, recursive functions, etc.
+- Code includes C++ standard library use (map, iterators, mutable, default, etc) and recursive functions.
